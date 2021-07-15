@@ -18,6 +18,7 @@ newdocs
 examples/history.db
 *.sql
 /.project
+/.vs
 /.pydevproject
 /.settings/
 /venv/
